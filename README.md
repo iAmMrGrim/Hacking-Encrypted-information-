@@ -1,3 +1,5 @@
+#in a clean environment without an encryption all of the keys being shown would line up either directly on the left or directly on the right of the screen with no variation and no stacking they would all be their own individual rows.. anything not in its own individual row shows you exactly what is being used to encrypt and exactly what you used to decrypt it's that simple.. 
+
 # Hacking-Encrypted-information-
 Easy way to manipulate the bytes of a file  
 #Welcome!! to the new GAME of data organization! 
